@@ -37,8 +37,8 @@ hall-booking-frontend/  # Frontend (React.js)
 2. Configure the database connection in `src/main/resources/application.properties`:
    ```properties
    spring.datasource.url=jdbc:postgresql://localhost:5432/hall_booking
-   spring.datasource.username=postgres
-   spring.datasource.password=alpha
+   spring.datasource.username=your_username_here_for_database
+   spring.datasource.password=your_password_here
    spring.jpa.hibernate.ddl-auto=none
    ```
 
