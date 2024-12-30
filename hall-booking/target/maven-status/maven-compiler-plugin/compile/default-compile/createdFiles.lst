@@ -1,0 +1,5 @@
+com\hallbooking\repository\BookingRepository.class
+com\hallbooking\service\BookingService.class
+com\hallbooking\controller\BookingController.class
+com\hallbooking\HallBookingApplication.class
+com\hallbooking\model\Booking.class
